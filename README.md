@@ -19,10 +19,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-electronics engineer
+trying to build working electronics
 --------------------
 
-learning to build working circuits and boards. currently experienced in automotive and pcb design using KiCAD + Altium.
+always hoping for working circuits and boards. experienced in automotive and pcb design using KiCAD + Altium.
 
 * 🌍  I'm based in DFW, TX
 * ✉️  You can contact me at [shakyasujin277@gmail.com](mailto:shakyasujin277@gmail.com)
