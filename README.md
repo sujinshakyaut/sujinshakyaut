@@ -15,7 +15,7 @@ I am building functional and stable devices
 
 I always hope that the circuits and DIY solutions i develop work. I am experienced in automotive applications of devices and pcb design using KiCAD and Altium.
 
-Also I work in formula sae.
+I also work in the accumulator team of Formula SAE as well.
 
 * 🌍  I'm based in DFW, TX
 * ✉️  You can contact me at [shakyasujin277@gmail.com](mailto:shakyasujin277@gmail.com)
