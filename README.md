@@ -31,7 +31,13 @@
 <div align="left">
   <img src="https://cdn.brandfetch.io/idrkdMvzVL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1763584268010" height="40" alt="kicad logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg](https://commons.wikimedia.org/wiki/File:KiCad-Logo.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.brandfetch.io/idrkdMvzVL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1763584268010" height="40" alt="altium logo"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idrkdMvzVL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1763584268010" height="40" alt="ltspice logo"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idrkdMvzVL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1763584268010" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="matlab logo"  />
 </div>
 
 ###
