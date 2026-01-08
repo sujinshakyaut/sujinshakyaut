@@ -24,12 +24,12 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 tools</h3>
 
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg](https://commons.wikimedia.org/wiki/File:KiCad-Logo.svg)" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.brandfetch.io/idrkdMvzVL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1763584268010" height="40" alt="kicad logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg](https://commons.wikimedia.org/wiki/File:KiCad-Logo.svg" height="40" alt="docker logo"  />
 </div>
