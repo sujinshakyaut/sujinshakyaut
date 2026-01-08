@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sujin
+==============================================================================================================================
 
-<!--
-**sujinshakyaut/sujinshakyaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+electronics engineer
+--------------------
 
-Here are some ideas to get you started:
+learning to build working circuits and boards. currently experienced in automotive and pcb design using KiCAD + Altium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in DFW, TX
+* ✉️  You can contact me at [shakyasujin277@gmail.com](mailto:shakyasujin277@gmail.com)
+* 🚀  I'm currently working on [my custom power supply](http://www.github.com/sujinshakyaut/usbc-i2c-powersupply)
+* 🧠  I'm currently learning FPGA and signal processing
+* 👥  I'm looking to collaborate on electronics projects
