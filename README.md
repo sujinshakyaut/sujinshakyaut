@@ -19,8 +19,16 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+electronics engineer
+--------------------
 
-<p align="left">I'm located in DFW area<br><br>- 🔭 I’m working in electronics and fpga<br>- 📚 I'm currently learning rf and fpga<br>- ⚡ In my free time I read and work</p>
+learning to build working circuits and boards. currently experienced in automotive and pcb design using KiCAD + Altium.
+
+* 🌍  I'm based in DFW, TX
+* ✉️  You can contact me at [shakyasujin277@gmail.com](mailto:shakyasujin277@gmail.com)
+* 🚀  I'm currently working on [my custom power supply](http://www.github.com/sujinshakyaut/usbc-i2c-powersupply)
+* 🧠  I'm currently learning FPGA and signal processing
+* 👥  I'm looking to collaborate on electronics projects
 
 ###
 
