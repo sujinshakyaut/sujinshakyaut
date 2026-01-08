@@ -33,11 +33,11 @@
   <img width="12" />
   <img src="https://cdn.brandfetch.io/idrkdMvzVL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1763584268010" height="40" alt="altium logo"  />
   <img width="12" />
-  <img src="https://cdn.brandfetch.io/idrkdMvzVL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1763584268010" height="40" alt="ltspice logo"  />
+  <img src="https://cdn.brandfetch.io/idZwa39id_/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751660320887" height="40" alt="ltspice logo"  />
   <img width="12" />
-  <img src="https://cdn.brandfetch.io/idrkdMvzVL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1763584268010" height="40" alt="python logo"  />
+  <img src="https://cdn.brandfetch.io/idbpOFBgcc/w/398/h/398/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764244766464" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="matlab logo"  />
+  <img src="cdn.brandfetch.io/idN_w4dAqi/w/332/h/332/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767450635531" height="40" alt="matlab logo"  />
 </div>
 
 ###
