@@ -6,14 +6,16 @@
 
 ###
 
-<h1 align="center">hey there, i am Sujin</h1>
+<h1>hey there, i am Sujin</h1>
 
 ###
 
-trying to build working electronics
+I am building functional and stable devices 
 --------------------
 
-always hoping for working circuits and boards. experienced in automotive and pcb design using KiCAD + Altium.
+I always hope that the circuits and DIY solutions i develop work. I am experienced in automotive applications of devices and pcb design using KiCAD and Altium.
+
+Also I work in formula sae.
 
 * 🌍  I'm based in DFW, TX
 * ✉️  You can contact me at [shakyasujin277@gmail.com](mailto:shakyasujin277@gmail.com)
