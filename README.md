@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from .... nepal<br><br>- 🔭 I’m working in electronics and fpga<br>- 📚 I'm currently learning rf and fpga<br>- ⚡ In my free time I read and work</p>
+<p align="left">I'm located in DFW area<br><br>- 🔭 I’m working in electronics and fpga<br>- 📚 I'm currently learning rf and fpga<br>- ⚡ In my free time I read and work</p>
 
 ###
 
