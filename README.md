@@ -6,14 +6,14 @@
 
 ###
 
-<h1>hey there, i am Sujin</h1>
+<h1>hey there, I am Sujin</h1>
 
 ###
 
 I work towards building functional and stable devices 
 --------------------
+Life, to me, is about experimentation and that mindset carries into the circuits and DIY solutions I build, hoping they work and learning when they don’t. I have hands-on experience designing and testing PCBs for automotive applications, using KiCAD and Altium to take ideas from concept to functional hardware.
 
-Life is always about experimenting and this does tend to make me pray that the circuits and DIY solutions I develop work. I am experienced in automotive applications of devices and pcb design using KiCAD and Altium.
 
 * 🌍  I'm based in DFW, TX
 * ✉️  You can contact me at [shakyasujin277@gmail.com](mailto:shakyasujin277@gmail.com)
