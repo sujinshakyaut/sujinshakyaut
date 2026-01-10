@@ -46,7 +46,8 @@ Life is always about experimenting and this does tend to make me pray that the c
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sujinshakyaut&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sujinshakyaut&repo=usbc-i2c-powersupply)
+
 </div>
 
 ###
