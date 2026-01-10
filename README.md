@@ -41,13 +41,6 @@ Life is always about experimenting and this does tend to make me pray that the c
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sujinshakyaut&repo=usbc-i2c-powersupply)
-
-</div>
 
 ###
