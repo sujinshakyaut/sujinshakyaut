@@ -13,7 +13,6 @@ Life, to me, is about experimentation and that mindset carries into the circuits
 * 🌍  I'm based in DFW, TX
 * ✉️  You can contact me at [shakyasujin277@gmail.com](mailto:shakyasujin277@gmail.com)
 * 🚀  I'm currently working on [my custom power supply](http://www.github.com/sujinshakyaut/usbc-i2c-powersupply)
-* 🧠  I'm currently learning FPGA and signal processing
 * 👥  I'm looking to collaborate on electronics projects
 
 ###
